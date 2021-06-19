@@ -1,0 +1,44 @@
+.body {
+background-color: rgb(65, 65, 65);
+margin: 0;
+padding: 0;
+}
+
+.comicbody {
+    background-color: rgb(41, 117, 189);
+    margin: 0;
+    padding: 0;
+}
+
+.comic-heading h1 {
+    display:flex;
+    justify-content: center;   
+    align-items: center;
+    background-color: red;
+    color: white;
+    padding: 20px;
+}
+
+.heading {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(201, 197, 0);
+    color: white;
+    padding: 20px;
+}
+
+.comicpic, .link {
+    height: 200px;
+    width: 200px;
+    color: black;
+}
+
+.gamepic {
+    height: 200px;
+    width: 280px;
+}
+
+.return {
+    display:flex;
+}
