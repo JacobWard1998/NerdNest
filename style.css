@@ -28,10 +28,9 @@ padding: 0;
     padding: 20px;
 }
 
-.comicpic, .link {
+.comicpic {
     height: 200px;
     width: 200px;
-    color: black;
 }
 
 .gamepic {
@@ -41,4 +40,11 @@ padding: 0;
 
 .return {
     display:flex;
+    color: black;
+    font-weight: bold;
+}
+
+.marvelpic, .dcpic{
+    height: 200;
+    width: 280;
 }
